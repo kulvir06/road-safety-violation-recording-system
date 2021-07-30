@@ -1,0 +1,8 @@
+{
+    "cluster": {
+        "name": "Cluster0",
+        "username": "admin",
+        "password": "yjwxjNqyBn5B26jZ",
+        "connection_string_Application": "mongodb+srv://admin:<password>@cluster0.ozorz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    }
+}
